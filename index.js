@@ -28,6 +28,62 @@ const reviews = [
     img: 'cid-kagenou.jpeg',
     text: "CID Kagenou is a mysterious and skilled operative from the organization Shadow Garden. With unparalleled mastery of stealth and disguise, he excels in infiltration, sabotage, and assassination. His red eyes gleam with intelligence and strategic thinking, making him a valuable asset to his allies. CID's loyalty and dedication to his friends are unwavering.",
   },
+  {
+    id: 5,
+    name: 'Yuuta Okkotsu',
+    job: 'Jujutsu sorcerer',
+    img: 'yuuta.jpeg',
+    text: "Yuuta Okkotsu, a prominent figure in 'Jujutsu Kaisen,' is renowned for his immense potential as a jujutsu sorcerer. Introduced in the prequel 'Jujutsu Kaisen 0,' he grapples with the curse of Rika, a powerful spirit tied to his past. Yuuta's journey of mastering his abilities and confronting his fears highlights his complex character and significance in the series.",
+  },
+  {
+    id: 6,
+    name: 'Ryomen Sukuna',
+    job: 'Jujutsu sorcerer',
+    img: 'sukuna.jpeg',
+    text: "Ryomen Sukuna, often referred to as the 'King of Curses', is a central antagonist in 'Jujutsu Kaisen'. An ancient and immensely powerful curse, Sukuna's malevolent influence spans centuries. His terrifying strength and cunning make him a formidable force within the series. Sukuna's complex relationship with the protagonist, Yuji Itadori, drives much of the story's tension and intrigue.",
+  },
+  {
+    id: 7,
+    name: 'Levi Ackerman',
+    job: 'Captain of survey corps',
+    img: 'levi.jpeg',
+    text: "Levi Ackerman, a fan-favorite from 'Attack on Titan', is revered for his unparalleled combat skills and stoic demeanor. As humanity's strongest soldier, Levi's leadership and tactical brilliance make him a key figure in the battle against the Titans. His complex past and unwavering dedication to his comrades add depth to his character, making him one of the most iconic figures in the series.",
+  },
+  {
+    id: 8,
+    name: 'Mikasa Ackerman',
+    job: 'Member Of survey corps',
+    img: 'mikasa.jpeg',
+    text: "Mikasa Ackerman, a central character in 'Attack on Titan', is renowned for her exceptional combat skills and unwavering loyalty. As a highly skilled soldier in the Survey Corps, Mikasa is driven by a deep bond with her childhood friend, Eren Yeager. Her dedication to protecting those she cares about, combined with her formidable strength and tactical prowess, make her one of the most respected and powerful characters in the series.",
+  },
+  {
+    id: 9,
+    name: 'Eren Yeager',
+    job: 'Member of survey corps',
+    img: 'eren.jpeg',
+    text: "Eren Yeager, the protagonist of 'Attack on Titan', is a complex and evolving character central to the series' narrative. Initially driven by a fierce desire to eliminate all Titans and avenge his mother's death, Eren joins the Survey Corps to fight for humanity's freedom. As the story progresses, Eren's character becomes increasingly multifaceted, grappling with themes of freedom, power, and identity.",
+  },
+  {
+    id: 10,
+    name: 'Itoshi rin',
+    job: 'Blue lock',
+    img: 'itoshi.jpeg',
+    text: "Rin Itoshi, a prominent character in 'Blue Lock', is an exceptionally skilled forward with a fierce competitive edge. Known for his sharp instincts and advanced football techniques, Rin is driven by a strong desire to surpass his peers and achieve greatness on the field. His intense focus and natural talent make him a formidable opponent in the series.",
+  },
+  {
+    id: 11,
+    name: 'Nagi seishiro',
+    job: 'Blue lock',
+    img: 'nagi.jpeg',
+    text: "Seishiro Nagi, a standout character in 'Blue Lock', is renowned for his extraordinary natural talent and effortless skill on the field. With a remarkable sense of touch and vision, Nagi excels as a forward. His laid-back attitude and innate ability make him a key player in the competition."
+  },
+  {
+    id: 12,
+    name: 'Makima',
+    job: 'Public Safety Devil hunter',
+    img: 'makima.jpeg',
+    text: "Makima is a central character in 'Chainsaw Man', known for her enigmatic and manipulative nature. As a high-ranking Public Safety Devil Hunter, she wields significant influence and possesses a powerful, mysterious ability. Her complex motives and charismatic demeanor make her a pivotal and captivating figure in the series.",
+  },
 ];
 // select items
 const img = document.getElementById('person-img');
